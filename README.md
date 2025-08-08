@@ -23,7 +23,7 @@ I'm **Dan Halabe**, a **Data Engineer & Analytics Engineer**. I specialize in bu
 
 ## 🎓 Certifications
 
-- dbt Fundamentals
-- Salesforce Administrator
+- **dbt Fundamentals**
+- **Salesforce Administrator**
 
 ---

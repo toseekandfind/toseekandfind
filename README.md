@@ -26,5 +26,3 @@ I'm **Dan Halabe**, a **Data Engineer & Analytics Engineer**. I specialize in bu
 
 - dbt Fundamentals
 ```
-
-- You can paste this directly into `README.md` of your special `USERNAME/USERNAME` repo.

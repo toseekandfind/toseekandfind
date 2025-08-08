@@ -1,4 +1,3 @@
-```markdown
 ## 👋 Well Hello There! ✨
 
 I'm **Dan Halabe**, a **Data Engineer & Analytics Engineer**. I specialize in building scalable data pipelines, optimizing data systems, and enabling actionable insights through modern data stack technologies.
@@ -25,4 +24,6 @@ I'm **Dan Halabe**, a **Data Engineer & Analytics Engineer**. I specialize in bu
 ## 🎓 Certifications
 
 - dbt Fundamentals
-```
+- Salesforce Administrator
+
+---

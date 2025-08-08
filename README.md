@@ -1,16 +1,30 @@
-## Hi there 👋
+```markdown
+## 👋 Well Hello There! ✨
 
-<!--
-**toseekandfind/toseekandfind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dan Halabe**, a **Data Engineer & Analytics Engineer**. I specialize in building scalable data pipelines, optimizing data systems, and enabling actionable insights through modern data stack technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+### **Languages**: SQL, Python
+
+### **Data Engineering**
+- **Processing**: dbt (Core & Cloud), Airflow, Fivetran, ETL/ELT Processes, Snowflake, Iceberg, S3/Parquet
+- **Databases**: Snowflake, Redshift
+- **Cloud Platforms**: AWS, GCP (basic)
+
+### **Data Visualization & Analytics**: Apache Superset, Looker, Power BI, Tableau
+
+### **Data Quality & Observability**: Elementary Data, Great Expectations, dbt tests + freshness monitoring
+
+### **Security & Compliance**: PII tokenization, role-based access control, FedRAMP-conscious designs
+
+---
+
+## 🎓 Certifications
+
+- dbt Fundamentals
+```
+
+- You can paste this directly into `README.md` of your special `USERNAME/USERNAME` repo.

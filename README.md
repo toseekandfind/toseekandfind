@@ -1,6 +1,8 @@
 ## 👋 Well Hello There! ✨
 
-I'm **Dan Halabe**, **Founder** of **Big Whale Analytics Consulting** & a **Data Engineer & Analytics Engineer**. I specialize in building scalable data pipelines, optimizing data systems, and enabling actionable insights through modern data stack technologies.
+I'm **Dan Halabe**,
+**Founder, Big Whale Analytics Consulting · Senior Data Engineer & Analytics Engineer**
+I specialize in building scalable data pipelines, optimizing data systems, and enabling actionable insights through modern data stack technologies.
 
 ---
 

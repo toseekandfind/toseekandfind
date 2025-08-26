@@ -25,6 +25,7 @@ I specialize in building scalable data pipelines, optimizing data systems, and e
 
 ## 🎓 Certifications
 
+- **dbt Certified Developer**
 - **dbt Fundamentals**
 - **Salesforce Administrator**
 
